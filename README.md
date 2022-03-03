@@ -1,8 +1,8 @@
-# Pancake Factory
+# Gravy Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/gravyswap/gravyswap-swap-core/workflows/CI/badge.svg)](https://github.com/gravyswap/gravyswap-swap-core/actions)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on GravySwap is available at [docs.gravyswap.com](https://docs.gravyswap.com/).
 
 # Local Development
 
